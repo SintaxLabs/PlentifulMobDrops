@@ -7,4 +7,4 @@ Drop a ⭐ to support and stay up to date!
 
 Consider [donating](https://ko-fi.com/jammerz), no pressure 🩷
 
-This repo will be updated soon. 
+## This page will be updated soon.
